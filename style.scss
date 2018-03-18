@@ -24,14 +24,22 @@ body {
   
 }
 
-<table> {
+div {
+table {
 	border-collapse: collapse;
 }
 
 table, th, td {
 	border: 2px #000000;
 }
-<table>
+table
+}
+
+div {
+	padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 
 .container {
   margin: 0 auto;
