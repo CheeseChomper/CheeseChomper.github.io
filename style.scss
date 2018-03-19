@@ -17,8 +17,12 @@ html {
   font-size: 100%;
 }
 
-main {
-	padding-left: 2em;
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid black;
 }
 
 body {
